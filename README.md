@@ -62,3 +62,14 @@ The Risk Score emerged as the most influential predictor across all models.
 Random Forest demonstrated the best overall performance, though potential overfitting was observed.
 
 Logistic Regression provided the most interpretable model, offering direct insights into feature impact.
+
+## Technologies Used
+Python
+
+NumPy, Pandas
+
+Matplotlib, Seaborn
+
+Scikit-Learn
+
+Jupyter Notebook
