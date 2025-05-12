@@ -3,20 +3,20 @@ This repository contains the project files for the Loan Approval Prediction anal
 ## Project Overview
 In the financial sector, loan approval decisions are critical and involve evaluating various financial and demographic parameters. This project leverages statistical learning algorithms to predict loan approval status based on a dataset of 20,000 synthetic records. It compares the performance of three models:
 
--Logistic Regression
+Logistic Regression
 
--Support Vector Machine (SVM)
+Support Vector Machine (SVM)
 
--Random Forest Classifier
+Random Forest Classifier
 ## Key Objectives:
 
--Identify significant predictors of loan approval.
+Identify significant predictors of loan approval.
 
--Develop, train, and evaluate multiple machine learning models.
+Develop, train, and evaluate multiple machine learning models.
 
--Compare model performance based on accuracy, precision, recall, F1 Score, and AUC-ROC.
+Compare model performance based on accuracy, precision, recall, F1 Score, and AUC-ROC.
 
--Analyze feature importance to understand the drivers of loan approval.
+Analyze feature importance to understand the drivers of loan approval.
 ## Methodology
 ### Data Preprocessing:
 
